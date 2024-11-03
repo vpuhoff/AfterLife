@@ -20,7 +20,7 @@ Afterlife Memory Bot - это Telegram бот, позволяющий созда
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/afterlife-memory-bot.git
+git clone https://github.com/vpuhoff/AfterLife.git
 cd afterlife-memory-bot
 ```
 
